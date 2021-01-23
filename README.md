@@ -23,6 +23,6 @@ C / C++ / PYTHON / HTML / CSS / Bootstrap / JS / Reactjs / Tensorflow / Node.js 
 <p align="center">
 <a href="https://www.linkedin.com/in/kodipelly-sai-ganesh-6812aa1a1/"><img src="https://img.shields.io/badge/-Sai Ganesh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ganeshrao9949@gmail.com"><img src="https://img.shields.io/badge/-ganeshrao9949@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/ray_ha_2704"><img src="https://img.shields.io/badge/-ray_ha_2704-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ganesh__612__/"><img src="https://img.shields.io/badge/-Sai Ganesh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
