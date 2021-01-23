@@ -4,10 +4,11 @@
 **saiganesh612/saiganesh612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1>This is Sai Ganesh</h1>
+<h1>This is K.Sai Ganesh</h1>
 - 🎓 I’m an Undergrad at IIIT Dharwad with a major in Computer Science </br>
 - 💻 I’m a Full Stack Developer and an AI enthusiasist(Major interest:DL)</br>
 
+<br>
 <b>Skills:</b><br>
 C / C++ / PYTHON / HTML / CSS / Bootstrap / JS / Reactjs / Tensorflow / Node.js / MongoDB / 
 <br><br>
