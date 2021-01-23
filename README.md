@@ -2,15 +2,26 @@
 
 <!--
 **saiganesh612/saiganesh612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<h1>This is Sai Ganesh</h1>
+- 🎓 I’m an Undergrad at IIIT Dharwad with a major in Computer Science </br>
+- 💻 I’m a Full Stack Developer and an AI enthusiasist(Major interest:DL)</br>
+
+<b>Skills:</b><br>
+C / C++ / PYTHON / HTML / CSS / Bootstrap / JS / Reactjs / Tensorflow / Node.js / MongoDB / 
+<br><br>
+
+![Sai Ganesh Github Stats](https://github-readme-stats.vercel.app/api?username=saiganesh612&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
+<br>
+
+![Profile views](https://gpvc.arturio.dev/saiganesh612)  
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiganesh612&langs_count=8&layout=compact)](https://github.com/saiganesh612/github-readme-stats)
+- 📫 How to reach me: ...</br>
+<p align="center">
+<a href="https://www.linkedin.com/in/rayha2704/"><img src="https://img.shields.io/badge/-Reha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:rehasreekoneru@gmail.com"><img src="https://img.shields.io/badge/-rehasreekoneru@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ray_ha_2704"><img src="https://img.shields.io/badge/-ray_ha_2704-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
+</p>
